@@ -8,14 +8,14 @@
 [Q] What's your stack ?
 [R] My main languages are :
 1. Front :
--HTML
--CSS
--JS
-I'm currently learning Angular
+- HTML
+- CSS
+- JS
+| I'm currently learning Angular
 2. Back :
--SQL
--PHP (+ Symfony)
--GO (learning)
+- SQL
+- PHP (+ Symfony)
+- GO (learning)
 
 
 <!---
