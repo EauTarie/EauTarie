@@ -1,15 +1,21 @@
-Hi, you are on my GITHUB page !
+# Welcome !
+[Q] Who i'm I ?
+[A] Hi, My name is Alexandre (Nickname => EauTarie). I live in France
 
-I'm a Junior WEB DEVLOPPER.
+[Q] What do you do ?
+[R] I'm a software developer at [Conserto](https://conserto.pro/)
 
-My main languages are :
+[Q] What's your stack ?
+[R] My main languages are :
+1. Front :
 -HTML
 -CSS
 -JS
------
+I'm currently learning Angular
+2. Back :
 -SQL
--PHP
--GO (on learning)
+-PHP (+ Symfony)
+-GO (learning)
 
 
 <!---
