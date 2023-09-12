@@ -11,7 +11,7 @@
 - `HTML`
 - `CSS`
 - `JS
-| I'm currently learning Angular
+| I'm currently learning `Angular
 2. Back :
 - `SQL`
 - `PHP (+ Symfony)
