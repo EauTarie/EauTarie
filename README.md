@@ -10,8 +10,8 @@
 1. Front :
 - `HTML`
 - `CSS`
-- `JS
-| I'm currently learning `Angular
+- `JS`
+| I'm currently learning `Angular`
 2. Back :
 - `SQL`
 - `PHP (+ Symfony)
