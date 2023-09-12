@@ -14,7 +14,7 @@
 | I'm currently learning `Angular`
 2. Back :
 - `SQL`
-- `PHP (+ Symfony)
+- `PHP` (+ Symfony)
 - `GO` (learning)
 
 
