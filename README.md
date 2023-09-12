@@ -1,5 +1,5 @@
 # Welcome !
-### [Q] Who i'm I ?
+### [Q] Who am I ?
 > [A] Hi, My name is Alexandre (Nickname => EauTarie). I live in France
 
 ### [Q] What do you do ?
