@@ -2,9 +2,6 @@
 ### [Q] Who am I ?
 > [A] Hi, My name is Alexandre (Nickname => EauTarie). I live in France
 
-### [Q] What do you do ?
-> [R] I'm a web developer at Pixways
-
 ### [Q] What's your stack ?
 [R] My main languages are :
 1. Front :
